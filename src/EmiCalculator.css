@@ -1,0 +1,32 @@
+.emi-container {
+    width: 400px;
+    margin: 0 auto;
+    padding: 40px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 400px;
+    margin-left: 240px;
+ }
+ .emi-border{
+    margin: 50px;
+  }
+  
+  .emi-button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  .emi-result {
+    margin-top: 10px;
+  }
+  
+  .emi-chart {
+    width: 300px;
+    margin: 20px auto;
+  }
+  
